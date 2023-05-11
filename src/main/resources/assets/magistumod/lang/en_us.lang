@@ -1,0 +1,14 @@
+item.custom_bot.name=Custom Bot
+item.equiped_bot.name=Equiped Bot
+item.diesel_fuel_tank.name=Diesel Fuel Tank
+dismount.success=Leaving the car
+leave.success=Staying here
+lead.success=On my way
+info.invalidcoalition=Non-existent coalition
+join.success=Successfully joined the coalition
+info.success=Information
+nosuchplayer=No such player
+player.success=Coalition of player
+player.coalitionless=No coalition for such player
+badarguments=Bad arguments
+error.failedToSpawn=Cannot spawn
